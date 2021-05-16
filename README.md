@@ -7,5 +7,5 @@ This plugin will log a "critical" level error when any of the three hooks are ca
 
 Install manually using this URL:
 
-    https://github.com/AlexVerrico/Octoprint-TR_test/archive/master.zip=
+    https://github.com/AlexVerrico/Octoprint-TR_test/archive/master.zip
 
